@@ -1,0 +1,13 @@
+.filmList {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+
+  margin-top: 50px;
+}
+
+.filmList li {
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
